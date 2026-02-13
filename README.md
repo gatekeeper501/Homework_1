@@ -68,8 +68,8 @@ In this **Introduction to Git** course, I am learning the fundamentals of versio
 
 ## What I'm Still Working On
 
-- [ ] Mastering branch management and merge strategies
-- [ ] Understanding advanced pull request workflows
+- [x] Mastering branch management and merge strategies
+- [x] Understanding advanced pull request workflows
 - [ ] Learning GitHub Actions for automation
 - [ ] Best practices for large-scale collaboration
 - [ ] Setting up CI/CD pipelines
