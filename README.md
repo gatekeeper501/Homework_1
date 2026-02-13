@@ -116,6 +116,4 @@ As I continue my journey toward a Ph.D. in Computer Science, these collaboration
 
 **Last Updated:** February 12, 2026  
 **Course:** Introduction to Git (modernswdev)  
-**Student:** Cornell | UA Little Rock
-
-**Note** Made with the help of AI
+**Student:** Cornell Cornelius Jr. | UA Little Rock
