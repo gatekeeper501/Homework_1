@@ -19,3 +19,5 @@ This resource provides a quick and easy reference for formatting files using Mar
 ## UA Little Rock Blackboard
 This is our primary portal for accessing course materials, grades, and university announcements.
 [Visit Blackboard](https://blackboard.ualr.edu)
+
+*Peer Review Acknowledgment: This change is for assigning reviewers as required by the course.*
